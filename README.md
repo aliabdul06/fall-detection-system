@@ -1,4 +1,4 @@
-# Fall Detection System — Health IoT Project
+# Fall Detection System — IoT Project
 
 Group Members: Abdul Ali, Zerdani Ines Lylia, Tzini Samoili, Nishi Macwan
 
