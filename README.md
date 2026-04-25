@@ -50,7 +50,7 @@ Install these libraries via the Arduino Library Manager:
 - `Adafruit SSD1306`
 - `Adafruit GFX Library`
 - `PubSubClient` (for the client ESP32)
-- `uMQTTBroker` (for the broker ESP32)
+- `sMQTTBroker` (for the broker ESP32)
 - `Wire` (built-in)
 
 Also install the **ESP32 board package** in Arduino IDE:  
